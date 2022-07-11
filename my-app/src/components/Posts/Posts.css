@@ -1,0 +1,15 @@
+.posts {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+/* .headerPosts {
+
+}
+
+.posts__icon {
+    background-image: url(../image/images.svg);
+    max-width: 300px;
+    max-height: 300px;
+} */

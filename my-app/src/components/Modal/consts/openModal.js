@@ -1,0 +1,1 @@
+export const OPENMODAL = (e) => {document.querySelector(".modal").classList.add("modalActive")}

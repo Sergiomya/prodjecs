@@ -1,0 +1,1 @@
+export const CLOSEMODAL = (e) => {document.querySelector(".modal" && ".modalActive").classList.remove("modalActive")}
