@@ -1,15 +1,7 @@
-.posts {
-    display: flex;
-    width: 100vw;
-    height: 100vh;
-}
 
-/* .headerPosts {
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100&display=swap');
+
+.contenHeaderText {
+    font-family: 'Exo 2', sans-serif;
 
 }
-
-.posts__icon {
-    background-image: url(../image/images.svg);
-    max-width: 300px;
-    max-height: 300px;
-} */

@@ -1,7 +1,7 @@
 import React from "react";
-import MenuList from "../MenuList/MenuList";
 import {CLOSEMODAL} from "../Modal/consts/closeModal";
 import "./Modal.css";
+
 
 
 const Modal = () => {
@@ -12,9 +12,10 @@ const Modal = () => {
   <div className="modal"> 
     <div className="modalFone" onClick={CLOSEMODAL}></div>
     <div className="modalContent">
-      <div className="modalText">Да почему, в конце концов, каждому своему действию я должен придумывать предлог? «Морфий» 
+      <div className="modalText">Да почему, в конце концов, каждому своему действию я должен придумывать предлог? «Морфий» Булгаков М.А.
       </div>
     </div>
+    
   </div>
   )
 }
