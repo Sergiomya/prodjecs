@@ -1,9 +1,0 @@
-export const IMG_POSTS_HEADER = 'https://psv4.vkuseraudio.net/s/v1/d/_BddhvIAUczthCQX3tDjw0FGwEMEgfqydQ4JpWbA1ncX60Ttd584n_Vd-I3os3p0oE60Yq3d6Sg-eL0JCnpkldB6Rtkw6JMeYwWRQqFKHw8Mq1-XhpOMQQ/women.png';
-export const IMG_POSTS_SAFO = 'https://assets.gq.ru/photos/5d9f4d1453677300085eccf4/master/w_1600,c_limit/GettyImages-592026738.jpg';
-export const IMG_POSTS_KLEOPATRA = 'https://assets.gq.ru/photos/5d9f4d1b86cf8600083f2238/master/w_1600,c_limit/GettyImages-501737614.jpg';
-export const IMG_POSTS_ZHANNA_DARK = 'https://assets.gq.ru/photos/5d9f4d1a4c4d5f0009b2809e/master/w_1600,c_limit/GettyImages-450225331.jpg';
-export const IMG_POSTS_EKATERINA_II = 'https://assets.gq.ru/photos/5d9f4d132129f20008bdc466/master/w_1600,c_limit/GettyImages-92836864.jpg';
-export const IMG_POSTS_ACEDORA_DYNKAN = 'https://assets.gq.ru/photos/5d9f4d13ae4fcf0008ebf032/master/w_1600,c_limit/GettyImages-2642539.jpg';
-export const IMG_POSTS_MARIIA_SKLADOVSKAIA_KYRI = 'https://assets.gq.ru/photos/5d9f4d121e1cf40008759cc7/master/w_1600,c_limit/GettyImages-92846352.jpg';
-export const IMG_POSTS_COCO_CHANEL = 'https://assets.gq.ru/photos/5d9f4d125a6bf0000921a3b2/master/w_1600,c_limit/GettyImages-56226933.jpg';
-export const IMG_POSTS_SOFIYA_KOVALEVSKAYA = 'https://assets.gq.ru/photos/5d9f4d164cebd3000809d8eb/master/w_1600,c_limit/GettyImages-170987062.jpg';
