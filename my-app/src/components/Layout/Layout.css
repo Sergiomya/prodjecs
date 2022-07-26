@@ -1,0 +1,12 @@
+ul {
+    display: flex;
+    position: fixed;
+    align-items: center;
+    list-style: none;
+}
+
+link {
+    display: flex;
+    grid-row: 1;
+}
+

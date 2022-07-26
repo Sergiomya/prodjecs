@@ -1,15 +1,6 @@
-
-
-
-
 .posts {
     display: flex;
     align-items: center;
-    min-height: 200px;
-    max-width: 200px;
+    
 }
 
-.card{
-    width: 400px;
-    height: 627px;
-}

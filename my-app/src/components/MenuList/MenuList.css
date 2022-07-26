@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-    color: rgba(32, 32, 32, 0.24);
+    color: rgba(0, 0, 0, 0.253);
     -webkit-text-shadow: 1px 1px 1px #000;
     -moz-text-shadow: 1px 1px 1px #000;
     text-shadow: 1px 1px 1px #000;
