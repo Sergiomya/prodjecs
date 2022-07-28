@@ -1,6 +1,14 @@
 .posts {
+    display: grid;
+    grid-template-columns:  2fr;
+    justify-items: center;
+    grid-row-gap: 100px;
+}
+
+.contenHeaderText {
     display: flex;
     align-items: center;
-    
+    justify-content: space-evenly;
+    flex-direction: column;
 }
 

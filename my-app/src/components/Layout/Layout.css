@@ -1,4 +1,11 @@
-ul {
- list-style: none;
+nav {
+    flex-grow: 3;
+    display: flex;
 }
 
+.CardHeader {
+    display: flex;
+    flex-grow: 2;
+    max-width: 90px;
+    height: 90px;
+}

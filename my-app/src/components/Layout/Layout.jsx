@@ -10,8 +10,8 @@ function Layout() {
  
 
   return (
-    <Box >
-      <AppBar component="nav" sx={{ backgroundColor: 'transparent', position: 'fixed'}}>
+    <Box>
+      <AppBar sx={{ background:'linear-gradient(rgb(165, 209, 229), rgb(224, 183, 190))', position: 'fixed'}}>
         <Toolbar sx={{display:'flex', alignItems: 'end', justifyContent: 'flex-end'}}>
         <Nav/>
         </Toolbar>
