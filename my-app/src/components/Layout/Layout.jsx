@@ -4,14 +4,15 @@ import Nav from "./Nav"
 import Drawer from './Drawer';
 
 
+
 function Layout() {
  
  
 
   return (
-    <Box sx={{ display: 'flex' }}>
+    <Box >
       <AppBar component="nav" sx={{ backgroundColor: 'transparent', position: 'fixed'}}>
-        <Toolbar>
+        <Toolbar sx={{display:'flex', alignItems: 'end', justifyContent: 'flex-end'}}>
         <Nav/>
         </Toolbar>
       </AppBar>

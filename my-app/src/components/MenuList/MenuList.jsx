@@ -1,19 +1,20 @@
 import React from "react";
-import { Routes,Route, useMap } from "react-router-dom";
+import { Routes,Route } from "react-router-dom";
 import "./MenuList.css";
-import Posts from "../Posts/Posts";
 import Home from "./Home";
-import Layout from "../Layout/Layout";
+import Posts from "../Posts/Posts"
+import Contacts from "../Contacts/Contacts";
 
+function MenuList() {
 
-function MenuList(useMap) {
 
     return (
         <>
         <Routes>
-                <Route path="/" element={<Layout/>}/>  
-                <Route path="/posts" element={<Posts/>}/> 
-                <Route path="/home" element={<Home/>}/>
+            <Route path="/home" element={<Home/>}>Home</Route>
+            <Route path="/" element={<Home/>}>Need to know</Route>
+            <Route path="/posts" element={<Posts/>}>Women</Route>
+            <Route path="/contacts" element={<Contacts/>}>Contacts</Route>
         </Routes>
         </>
     );

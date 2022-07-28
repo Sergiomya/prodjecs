@@ -1,5 +1,5 @@
+
 a {
-    list-style: none;
     margin-right: 30px;
     cursor: pointer;
     color: #e03e3e;
@@ -20,12 +20,9 @@ a:hover {
 }
 
 .menuList {
-    display: flex;
-    justify-content: start;
     margin-top: 0px;
     padding-top: 20px;
     margin-left: 30px;
     flex-grow: 1;
-    font-weight: bold;
 }
 

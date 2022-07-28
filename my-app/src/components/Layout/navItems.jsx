@@ -4,22 +4,22 @@ export const navItems =
     [
         {
             id:1,
-            path : ['/', '/home'],
+            path :'/home',
             title:'home'
         },
         {
             id:2,
-            a:"/",
+            path:'/',
             title:'Need to know'
         },
         {
             id:3,
-            path: ['/', '/posts'],
+            path: '/posts',
             title:'Women'
         },
         {
             id:4,
-            path: ['/', '/contacts'],
+            path: '/contacts',
             title:'Contacts'
         },
 
